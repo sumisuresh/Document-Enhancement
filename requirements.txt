@@ -1,0 +1,4 @@
+# Install the appropriate PyTorch CPU/CUDA build for your machine.
+torch>=2.2
+numpy>=1.24
+Pillow>=10.0
